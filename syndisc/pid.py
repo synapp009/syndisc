@@ -14,7 +14,7 @@ Distributed under the modified BSD licence. See LICENCE.txt for details.
 Pedro Mediano and Fernando Rosas, 2019
 """
 import numpy as np
-from .syndisc import disclosure
+from ...syndisc import disclosure
 
 from dit.pid.pid import BasePID
 from dit.multivariate import coinformation

@@ -10,7 +10,7 @@ information decomposition via synergistic disclosure.
 """
 
 import syndisc.pid
-import syndisc.solver
+import solver_pid
 import syndisc.syndisc
 
 from syndisc.syndisc import disclosure, disclosure_channel
